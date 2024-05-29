@@ -46,7 +46,7 @@
 ---
 
 ### **5. Timeline:**
-   - See Timeline section in the proposal.md](proposal.md).
+   - See Timeline section in the [proposal.md](proposal.md).
 
 ---
 
