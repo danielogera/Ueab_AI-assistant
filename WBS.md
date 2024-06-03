@@ -134,6 +134,10 @@ A detailed budget will be outlined after the approval of the proposal, covering:
 - Personnel Costs
 - Training and Support
 
+## System development flowchart.
+[see flowchart](https://app.eraser.io/workspace/srk18D220zjVYfgLRTLp?origin=share)
+
 ## Conclusion
 The development and deployment of the AI assistant will address the challenges faced by UEAB in data management and customer care services, enhancing the overall efficiency and user experience for the university community. Through this structured approach, the project aims to achieve its objectives within the defined timeline and budget, fostering a data-driven and supportive academic environment.
+
 
